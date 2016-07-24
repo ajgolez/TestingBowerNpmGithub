@@ -1,0 +1,21 @@
+{
+  "name": "TestingBowerNpmGithub",
+  "homepage": "https://github.com/ajgolez/TestingBowerNpmGithub",
+  "authors": [
+    "agolez <agolez@panviva.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3.1.0"
+  }
+}
